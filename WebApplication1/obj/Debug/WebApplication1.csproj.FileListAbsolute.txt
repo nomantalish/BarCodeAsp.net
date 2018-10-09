@@ -73,3 +73,7 @@ C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\obj\Debug\Web
 C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\bin\Zen.Barcode.Core.dll
+C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\bin\Zen.Barcode.Design.dll
+C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\bin\Zen.Barcode.Web.dll
+C:\Users\Noman Talish\source\repos\WebApplication1\WebApplication1\bin\Zen.Barcode.Web.Mvc.dll
